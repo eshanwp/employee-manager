@@ -1,0 +1,18 @@
+.grid-view {
+  .load-more-div {
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+  }
+
+  .avatar {
+    vertical-align: middle;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+  }
+
+  .action-icon {
+    cursor: pointer;
+  }
+}
